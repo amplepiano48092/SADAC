@@ -1,0 +1,7 @@
+instalar as seguintes bibliotecas:
+
+pip install --upgrade customtkinter pillow
+
+pip install customtkinter
+
+pip install pillow
